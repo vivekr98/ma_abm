@@ -1,0 +1,2 @@
+num_workers,num_gigs,percent_discriminatory,percent_high_performance,percent_high_scheduling,percent_spoiled
+100,50,0.22,0.29,0.28,0.38
